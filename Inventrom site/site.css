@@ -1,0 +1,118 @@
+*{
+    font-family:'Gill Sans';
+}
+.header{
+    width:100%;
+    height: 50px;
+}
+#logo{
+    padding-top: 10px;
+    padding-left: 7%;
+    float: left;
+}
+.links{ 
+    float: right;
+    padding-right: 5%;
+}
+.links a{ 
+    font-weight: bold;
+    font-size: 20px;
+    color: #0a0a0a;
+    padding-right: 30px;
+    padding-top: 5%;
+    display: inline-block; 
+    text-decoration: none;
+}
+.img-content{
+    height: 400px;
+    background-image: url("background-layer.png");
+}
+.text{    
+    font-size: 20px;
+    padding-top: 180px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#text{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}#ab{
+    font-size: 18px;
+    text-align: center;
+}
+.prin{
+    height: 500px;
+}
+h2{
+    text-align: center;
+    color: #139139;
+}
+.vision{
+    padding-left: 6.5%;
+    height:auto;
+    width: 40%;    
+    float:left;
+}
+.mission{
+    padding-right: 6.5%;
+    height:auto;
+    width: 40%;    
+    float:right;
+}
+#mis{
+    width: 100%;
+}
+#vis{
+    width: 100%;
+}
+.award{
+    background-color: rgb(240, 239, 239);
+    height: 400px;
+}
+.winner{
+    
+    margin-left: 5%;
+    height: auto;
+    width: 18.7%;  
+    float: left;  
+}
+#win{
+    width: 100%;
+}
+.award p,h4{
+    text-align: center;
+}
+.get{
+    height: 700px;
+}
+.form{
+    padding-left:6%;
+    height:auto;
+    width: 50%;    
+    float:left;
+}
+.location{
+    padding-right: 3%;
+    height:auto;
+    width: 40%;    
+    float:right;
+}
+.location h4{
+    text-align: left;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
+.footer{
+    height: 60px;
+    background-color: #139139;
+    padding: 5px 0px 0px 50px;
+    color: white;
+}
+#social{
+    padding-right: 50px;
+    float: right;
+}
